@@ -264,41 +264,9 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📈 What's Next?
-
-After completing these labs, you'll be ready for:
-
-### Immediate Next Steps
-- Build your own serverless applications
-- Containerize existing applications
-- Explore other cloud services (databases, storage, messaging)
-
-### Advanced Topics
-- **Infrastructure as Code** (Terraform, CloudFormation)
-- **CI/CD Pipelines** for automated deployment
-- **Monitoring and Observability** in the cloud
-- **Multi-cloud strategies** and vendor independence
-
-### Career Opportunities
-- **Cloud Developer** roles
-- **DevOps Engineer** positions
-- **Solutions Architect** paths
-- **Freelance cloud consulting**
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **FHNW** for providing the educational framework
-- **AWS** and **Google Cloud** for their excellent documentation
-- **Open source community** for the amazing tools and libraries
-- **All contributors** who help improve this training material
 
 ---
 
